@@ -1,0 +1,2 @@
+# MyApplicationWidgetImageView
+MyApplicationWidgetImageView
