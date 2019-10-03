@@ -12,6 +12,6 @@ MyApplicationWidgetImageView
 # Android studio does not allow image names with "-".
 
 
-# Run over the simulator.
+# Run on simulator.
 
 ![Screen Shot 2019-10-02 at 11 36 15 PM](https://user-images.githubusercontent.com/24994818/66099692-7a720700-e56d-11e9-85d6-7dfb46b1506d.png)
