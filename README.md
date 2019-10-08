@@ -27,3 +27,6 @@ MyApplicationWidgetImageView
 - centerCrop
 
 ![Screen Shot 2019-10-07 at 8 39 25 PM](https://user-images.githubusercontent.com/24994818/66360961-92b59d80-e942-11e9-8cc3-3c279c9f5526.png)
+
+# Constraints
+
