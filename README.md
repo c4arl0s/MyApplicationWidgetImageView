@@ -18,4 +18,12 @@ MyApplicationWidgetImageView
 
 # Scaling and resizing images
 
+- matrix
+- fitXY
+- fitStart
+- fitCenter
+- fitEnd
+- center
+- centerCrop
+
 
