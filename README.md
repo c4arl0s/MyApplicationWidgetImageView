@@ -59,3 +59,7 @@ MyApplicationWidgetImageView
 # Change the distance top and bottom on the properties.
 
 ![Screen Shot 2019-10-16 at 21 59 36](https://user-images.githubusercontent.com/24994818/66974322-58de4880-f060-11e9-8a05-3bd967e9bc2a.png)
+
+# Autoconnect button
+
+![Screen Shot 2019-10-16 at 22 09 34](https://user-images.githubusercontent.com/24994818/66974738-b6bf6000-f061-11e9-81d3-613a093fe558.png)
