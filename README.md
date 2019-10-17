@@ -46,9 +46,7 @@ MyApplicationWidgetImageView
 
 # Change the size of the imageView 100x100
 
-
-
-
+![Screen Shot 2019-10-16 at 21 39 41](https://user-images.githubusercontent.com/24994818/66973390-807fe180-f05d-11e9-9214-95c8917ebcdc.png)
 
 # Change the size of the button s font
 
