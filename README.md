@@ -31,3 +31,7 @@ MyApplicationWidgetImageView
 # Constraints
 
 ![Screen Shot 2019-10-07 at 8 57 28 PM](https://user-images.githubusercontent.com/24994818/66361638-22f4e200-e945-11e9-9499-224a03413639.png)
+
+# Fixing the image
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
