@@ -35,3 +35,6 @@ MyApplicationWidgetImageView
 # Click on the image and play
 
 [![Everything Is AWESOME](https://user-images.githubusercontent.com/24994818/66361638-22f4e200-e945-11e9-9499-224a03413639.png)](https://www.youtube.com/watch?v=H_hOKf05Mb8 "Everything Is AWESOME")
+
+# Drag a button to the top on the left
+
