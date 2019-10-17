@@ -36,7 +36,7 @@ MyApplicationWidgetImageView
 
 [![Everything Is AWESOME](https://user-images.githubusercontent.com/24994818/66361638-22f4e200-e945-11e9-9499-224a03413639.png)](https://www.youtube.com/watch?v=H_hOKf05Mb8 "Everything Is AWESOME")
 
-# Drag a button to the top on the left
+# Drag and drop a button to the top on the left
 
 ![Screen Shot 2019-10-16 at 21 33 30](https://user-images.githubusercontent.com/24994818/66973135-9f31a880-f05c-11e9-86b6-5e7381c7a115.png)
 
