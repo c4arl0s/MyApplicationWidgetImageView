@@ -38,7 +38,7 @@ MyApplicationWidgetImageView
 
 # Drag a button to the top on the left
 
-# Delete the left constrain, and drag and drop the constraint to the right side of the button.
+# Delete the left constrain of the image view, and drag and drop the constraint to the right side of the button and see what happen.
 
 ![Screen Shot 2019-10-16 at 21 29 21](https://user-images.githubusercontent.com/24994818/66972977-0bf87300-f05c-11e9-9a93-004ec8c33e5d.png)
 
