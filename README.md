@@ -55,3 +55,6 @@ MyApplicationWidgetImageView
 # chalenge
 
 ![Screen Shot 2019-10-16 at 21 56 47](https://user-images.githubusercontent.com/24994818/66974193-fbe29280-f05f-11e9-855d-9cf683e1be75.png)
+
+# Change the distance top and bottom on the properties.
+
